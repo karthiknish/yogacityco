@@ -72,14 +72,34 @@
       }
     },
     "cta_section": {
-      "type": "cta-section",
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start Your Yoga Journey Today",
+            "heading_size": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Transform your mind and body with our expert-led yoga courses</p>"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book Now",
+            "button_link": "shopify://collections/courses",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": ["heading", "text", "button"],
       "settings": {
-        "heading": "Start Your Yoga Journey Today",
-        "heading_size": "h2",
-        "text": "Transform your mind and body with our expert-led yoga courses",
-        "button_label": "Book Now",
-        "button_link": "shopify://collections/courses",
         "color_scheme": "scheme-2",
+        "full_width": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
