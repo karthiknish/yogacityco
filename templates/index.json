@@ -17,9 +17,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Group_61_4daaa728-cbd0-44f9-a300-b52fba3e47f1.png",
             "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "heading": "Practice Yoga With Industry Expert Instructors",
+            "text": "<p>Elevate your expertise with our level-specific courses.<\/p>",
+            "button_label": "Join Now",
             "button_link": ""
           }
         }
@@ -28,14 +28,14 @@
         "row_WqRKTX"
       ],
       "settings": {
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_image_width": "medium",
         "heading_size": "h1",
         "text_style": "body",
-        "button_style": "secondary",
+        "button_style": "primary",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
+        "desktop_content_alignment": "center",
+        "image_layout": "alternate-right",
         "section_color_scheme": "",
         "row_color_scheme": "",
         "mobile_content_alignment": "left",
